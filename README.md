@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h2 align="left">Hello 👋! my name is max</h2>
+<h2 align="left">CHAEWON LOVE</h2>
 
 ###
 
