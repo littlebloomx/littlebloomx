@@ -1,7 +1,7 @@
 # João Victor
 
 ```txt
-Front-end Developer
+Front-end and Back-end Developer
 Cybersecurity Student
 Motion Designer
 ```
