@@ -1,36 +1,29 @@
-<h1 align="center">Olá! 👋 Eu sou o João Victor</h1>
+# João Victor
 
-<p align="center">
-  Desenvolvedor Front-end and back-end • Estudante de Cibersegurança
-</p>
+```txt
+Front-end Developer
+Cybersecurity Student
+Motion Designer
+```
 
----
+> "Building cool things while learning something new every day."
 
-## 💻 Tecnologias
+### Stack
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,python,java,git,github,vscode" />
-</p>
+HTML • CSS • JavaScript • Python • Java • After effects
 
-## 🚀 Atualmente
+### Atualmente
 
-- 📚 Estudando para faculdade
-- 🔒 Aprendendo Cibersegurança
-- 🎨 Criando projetos com HTML, CSS e JavaScript
+🖥️ Desenvolvendo projetos pessoais
 
-## 📫 Contato
+🔒 Estudando Cibersegurança
 
-<p>
-<a href="SEU_INSTAGRAM">@littlebloomx_</a> •
-<a href="mailto:SEUEMAIL">joaovictoralmeida634@gmail.com</a>
-</p>
+🎬 Aprendendo Motion Graphics
 
----
+### GitHub
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=littlebloomx&show_icons=true&theme=tokyonight"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=littlebloomx&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebloomx&layout=compact&theme=tokyonight"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=littlebloomx&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=littlebloomx&layout=compact&theme=tokyonight"/>
