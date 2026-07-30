@@ -3,7 +3,7 @@
 ```txt
 Front-end and Back-end Developer
 Cybersecurity Student
-Editor de video
+Editor 
 ```
 
 > "Building cool things while learning something new every day."
