@@ -1,9 +1,9 @@
 # João Victor
 
 ```txt
-Front-end Developer
+Front-end and Back-end Developer
 Cybersecurity Student
-Motion Designer
+Editor de video
 ```
 
 > "Building cool things while learning something new every day."
